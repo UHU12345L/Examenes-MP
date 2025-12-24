@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1766565479 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\cliente.cpp
+	"Cliente.h"
+
+1766565479 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\cliente.h
+
+1766565517 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\clientenovip.cpp
+	"ClienteNOVIP.h"
+
+1766565517 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\clientenovip.h
+
+1766565503 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\clientevip.cpp
+	"ClienteVIP.h"
+
+1766565503 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\clientevip.h
+
+1766565533 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\empresa.cpp
+	"Empresa.h"
+
+1766565533 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\empresa.h
+
+1766567457 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\error.cpp
+	"Error.h"
+
+1766568437 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\error.h
+	<cstring>
+	<exception>
+
+1766566425 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\jugador.cpp
+	"Jugador.h"
+	"cstring"
+
+1766567584 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\jugador.h
+	"Fecha.h"
+
+1766568210 c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\include\fecha.h
+	<cstring>
+	"Error.h"
+
+1766568541 source:c:\users\usuario\desktop\examenesmp\examenene24\feb21_c\src\fecha.cpp
+	"Fecha.h"
+	"cstring"
+
+1766571608 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\cliente.cpp
+	"Cliente.h"
+
+1766571578 c:\users\usuario\desktop\examenesmp\feb21_c\include\cliente.h
+	"Fecha.h"
+	<cstring>
+
+1766571678 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\clientenovip.cpp
+	"ClienteNOVIP.h"
+
+1766571678 c:\users\usuario\desktop\examenesmp\feb21_c\include\clientenovip.h
+	"Cliente.h"
+
+1766571642 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\clientevip.cpp
+	"ClienteVIP.h"
+
+1766571627 c:\users\usuario\desktop\examenesmp\feb21_c\include\clientevip.h
+	"Cliente.h"
+
+1766571512 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\empresa.cpp
+	"Empresa.h"
+	"ClienteVIP.h"
+	<typeinfo>
+
+1766571512 c:\users\usuario\desktop\examenesmp\feb21_c\include\empresa.h
+	"Cliente.h"
+
+1766567457 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\error.cpp
+	"Error.h"
+
+1766568437 c:\users\usuario\desktop\examenesmp\feb21_c\include\error.h
+	<cstring>
+	<exception>
+
+1766570784 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\fecha.cpp
+	"Fecha.h"
+	"cstring"
+
+1766569424 c:\users\usuario\desktop\examenesmp\feb21_c\include\fecha.h
+	<cstring>
+	"Error.h"
+
+1766569637 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\jugador.cpp
+	"Jugador.h"
+
+1766569637 c:\users\usuario\desktop\examenesmp\feb21_c\include\jugador.h
+	"Fecha.h"
+	<cstring>
+
+1766566585 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\jugadorplus.cpp
+	"JugadorPlus.h"
+
+1766568641 c:\users\usuario\desktop\examenesmp\feb21_c\include\jugadorplus.h
+	"Jugador.h"
+
+1766571725 source:c:\users\usuario\desktop\examenesmp\feb21_c\src\main.cpp
+	<iostream>
+	"Empresa.h"
+	"ClienteVIP.h"
+	"ClienteNOVIP.h"
+
