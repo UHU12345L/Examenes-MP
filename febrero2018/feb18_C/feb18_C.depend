@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1767472297 source:c:\users\usuario\desktop\examenesmp\febrero2018\feb18_c\src\par.cpp
+	"Par.h"
+
+1767472193 c:\users\usuario\desktop\examenesmp\febrero2018\feb18_c\include\par.h
+	<iostream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+
