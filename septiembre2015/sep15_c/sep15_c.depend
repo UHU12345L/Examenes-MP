@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1768400374 source:c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\main.cpp
+	<iostream>
+	"Numeros.h"
+
+1768410114 c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\include\numeros.h
+	<iostream>
+
+1768410355 source:c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\src\libro.cpp
+	"Libro.h"
+
+1768410355 c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\include\libro.h
+	"Volumen.h"
+
+1768410570 c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\include\volumen.h
+	<iostream>
+	<cstring>
+
+1768410355 source:c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\src\revista.cpp
+	"Revista.h"
+
+1768410355 c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\include\revista.h
+	"Volumen.h"
+
+1768410422 source:c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\src\biblioteca.cpp
+	"Biblioteca.h"
+
+1768410456 c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\include\biblioteca.h
+	"Volumen.h"
+	"Libro.h"
+	"Revista.h"
+
+1768410200 source:c:\users\usuario\desktop\examenesmp\septiembre2015\sep15_c\src\volumen.cpp
+	"Volumen.h"
+
