@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\main.cpp
+	<iostream>
+
+1770458910 source:c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\src\documento.cpp
+	"Documento.h"
+
+1770458910 c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\include\documento.h
+
+1770458922 source:c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\src\libro.cpp
+	"Libro.h"
+
+1770458922 c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\include\libro.h
+
+1770461425 source:c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\src\fecha.cpp
+	"Fecha.h"
+
+1770461425 c:\users\usuario\desktop\examenesmp\repaso1\ene26_c\include\fecha.h
+	<iostream>
+	<cstring>
+
+1584205420 source:c:\users\usuario\desktop\examenesmp\enero2026\ene26_c\main.cpp
+	<iostream>
+
+1770484899 source:c:\users\usuario\desktop\examenesmp\enero2026\ene26_c\src\documento.cpp
+	"Documento.h"
+
+1770484899 c:\users\usuario\desktop\examenesmp\enero2026\ene26_c\include\documento.h
+	<iostream>
+	<cstring>
+
+1770484978 source:c:\users\usuario\desktop\examenesmp\enero2026\ene26_c\src\fecha.cpp
+	"Fecha.h"
+
+1770461425 c:\users\usuario\desktop\examenesmp\enero2026\ene26_c\include\fecha.h
+	<iostream>
+	<cstring>
+
